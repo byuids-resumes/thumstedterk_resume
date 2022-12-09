@@ -19,7 +19,7 @@ The vibe queen.
 `2018-Present`
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
-Currently workinf towards a bachelor's degree, majoring in Computer Science and minoring in Computer Information Technology
+Currently working towards a bachelor's degree, majoring in Computer Science and minoring in Computer Information Technology
 - 4.0 Major GPA
 
 
