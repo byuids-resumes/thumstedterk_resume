@@ -8,7 +8,7 @@ The vibe queen.
 <div id="webaddress">
 <a href="thu18002@byui.edu">thu18002@byui.edu</a>
 | <a href="https://www.linkedin.com/in/kristin-thumstedter-297712221">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/kristint22/thumstedterk_resume">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
